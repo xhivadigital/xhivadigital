@@ -31,21 +31,14 @@ I help businesses establish a strong digital presence through modern websites, A
 
 ### 🛠️ Technologies & Tools
 
-🟧 HTML5
-🟦 CSS3
-🟨 JavaScript
-🟩 WordPress
-🤖 AI Tools
-🟦 Git & GitHub
-🟧 Canva
-🟩 Visual Studio Code
-
-### 🌱 Currently Learning
-
-- Git & GitHub
-- AI Software Development
-- Business Automation
-- Modern Web Technologies
+🟧 HTML5<br>
+🟦 CSS3<br>
+🟨 JavaScript<br>
+🟩 WordPress<br>
+🤖 AI Tools<br>
+🟦 Git & GitHub<br>
+🟧 Canva<br>
+🟩 Visual Studio Code<br>
 
 ### 🎯 Current Focus
 
