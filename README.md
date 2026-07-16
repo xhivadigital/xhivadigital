@@ -51,9 +51,9 @@ Building practical AI-powered digital products and business tools that help comp
 
 ### 📫 Connect With Me
 
-🌐 Website: https://yourwebsite.com
+🌐 Website: https://www.xhivadigital.com
 
-📧 Email: your@email.com
+📧 Email: info@xhivadigital.com
 
 📍 Udupi, Karnataka, India
 
