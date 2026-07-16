@@ -31,9 +31,9 @@ I help businesses establish a strong digital presence through modern websites, A
 
 ### 🛠️ Technologies & Tools
 
-- HTML5
-- CSS3
-- JavaScript
+HTML5
+CSS3
+JavaScript
 - WordPress
 - Git & GitHub
 - Canva
