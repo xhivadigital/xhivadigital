@@ -31,14 +31,14 @@ I help businesses establish a strong digital presence through modern websites, A
 
 ### 🛠️ Technologies & Tools
 
-HTML5
-CSS3
-JavaScript
-- WordPress
-- Git & GitHub
-- Canva
-- AI Tools
-- Visual Studio Code
+🟧 HTML5
+🟦 CSS3
+🟨 JavaScript
+🟩 WordPress
+🤖 AI Tools
+🟦 Git & GitHub
+🟧 Canva
+🟩 Visual Studio Code
 
 ### 🌱 Currently Learning
 
