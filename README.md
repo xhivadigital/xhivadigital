@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ramesh Shriyan
 
+![Profile Views](https://komarev.com/ghpvc/?username=xhivadigital&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## Creative Web Designer | AI Solutions Developer | Digital Business Consultant
 
 Welcome to my GitHub!
